@@ -1,0 +1,2 @@
+# Covid-19-Case-Analysis-R
+The project was taken in order to know the number of covid patients increase per day and in total. -> The code started by importing all the required Libraries in R which included dslabs, dplyr, tidyverse, ggplot2, gapminder, and gganimate. Further I imported the dataset using read_csv function. With the help of functions in dplyr I cleaned the dataset. Using various functions in ggplot2 created a graph for each state in India. Using the animated function created the transition of every graph of each state.
